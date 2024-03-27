@@ -1,4 +1,4 @@
-# modulo1-web-blazor
+# Modulo 1:  Web Blazor
 
 [Introdução ao desenvolvimento para a Web com o Blazor](https://learn.microsoft.com/pt-br/training/modules/blazor-introduction/)
 
